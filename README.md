@@ -1,16 +1,19 @@
-👻 Hi. I'm 𝑱𝒖𝒏𝒈𝒔𝒆𝒐𝒃 𝑳𝒆𝒆.
+👻 Hi. I'm 𝑱𝒖𝒏𝒈𝒔𝒆𝒐𝒃 𝑳𝒆𝒆. 
 
 <br>
 📚 interested in Natural Language Processing. 
 
 <br>
-✍ I am currently majoring in Information and Communication Engineering (ICE) 
+
+✍ I am currently majoring in Information and Communication Engineering (ICE)
 and minor in Data Science at Dongguk University. 🇰🇷
 
 <br>
+
 [here](https://drive.google.com/file/d/1Sh8VqAbp5xtruV1X-fbQ4wvWYLiKILVE/view?usp=sharing) is my cv.
 
 <br>
+
 💡 If have any questions or interests to me, feel free to email me.
 <br>
 [𝑜𝓂𝒶𝓃𝓂𝒶𝟣𝟫𝟤𝟪@𝓃𝒶𝓋𝑒𝓇.𝒸𝑜𝓂](omanma1928@naver.com)

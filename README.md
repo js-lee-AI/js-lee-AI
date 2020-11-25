@@ -11,7 +11,7 @@ and minor in Data Science at Dongguk University. 🇰🇷
 
 <br>
 💡 If have any questions or interests to me, feel free to email me.
-<br>
+
 [𝑜𝓂𝒶𝓃𝓂𝒶𝟣𝟫𝟤𝟪@𝓃𝒶𝓋𝑒𝓇.𝒸𝑜𝓂](omanma1928@naver.com)
 
 <!--

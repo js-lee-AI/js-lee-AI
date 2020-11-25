@@ -1,4 +1,12 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=js-lee-AI)
+👻 Hi. I'm 𝑱𝒖𝒏𝒈𝒔𝒆𝒐𝒃 𝑳𝒆𝒆.
+📚 interested in Natural Language Processing. 
+
+✍ I am currently majoring in Information and Communication Engineering (ICE) and minor in Data Science at Dongguk University. 🇰🇷
+
+[here](https://drive.google.com/file/d/1Sh8VqAbp5xtruV1X-fbQ4wvWYLiKILVE/view?usp=sharing) is my cv.
+
+💡 If have any questions or interests to me, feel free to email me. 
+[𝑜𝓂𝒶𝓃𝓂𝒶𝟣𝟫𝟤𝟪@𝓃𝒶𝓋𝑒𝓇.𝒸𝑜𝓂](omanma1928@naver.com)
 
 <!--
 
@@ -14,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👻
 -->

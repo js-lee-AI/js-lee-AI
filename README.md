@@ -1,6 +1,6 @@
 👻 Hi. I'm 𝑱𝒖𝒏𝒈𝒔𝒆𝒐𝒃 𝑳𝒆𝒆. 
 <br>
-📚 interested in Natural Language Processing.
+📚 interested in 𝓝𝓪𝓽𝓾𝓻𝓪𝓵 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 𝓟𝓻𝓸𝓬𝓮𝓼𝓼𝓲𝓷𝓰
 
 <br>
 ✍ I am currently majoring in Information and Communication Engineering (ICE)

@@ -7,7 +7,7 @@
 
 and minor in Data Science at Dongguk University. 🇰🇷
 
-🌱 [here](https://drive.google.com/file/d/1Sh8VqAbp5xtruV1X-fbQ4wvWYLiKILVE/view?usp=sharing) is my cv.
+🌱 [𝓱𝓮𝓻𝓮](https://drive.google.com/file/d/1Sh8VqAbp5xtruV1X-fbQ4wvWYLiKILVE/view?usp=sharing) is my cv.
 
 <br>
 💡 If have any questions or interests to me, feel free to email me.

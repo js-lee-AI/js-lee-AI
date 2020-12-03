@@ -14,6 +14,11 @@ and minor in Data Science at Dongguk University. 🇰🇷
 
 [𝑜𝓂𝒶𝓃𝓂𝒶𝟣𝟫𝟤𝟪@𝓃𝒶𝓋𝑒𝓇.𝒸𝑜𝓂](omanma1928@naver.com)
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js-lee-AI&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 
 **js-lee-AI/js-lee-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

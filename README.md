@@ -21,8 +21,6 @@ and minor in Data Science at Dongguk University. 🇰🇷
 
 <!--
 
-**js-lee-AI/js-lee-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - Hi there 👋
 - 🔭 I’m currently working on ...

@@ -1,3 +1,6 @@
+# Jungseob Lee
+
+<!--
 👻 Hi. I'm 𝑱𝒖𝒏𝒈𝒔𝒆𝒐𝒃 𝑳𝒆𝒆. 
 <br>
 📚 interested in 𝘕𝘢𝘵𝘶𝘳𝘢𝘭 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦 𝘗𝘳𝘰𝘤𝘦𝘴𝘴𝘪𝘯𝘨
@@ -15,7 +18,7 @@ and minor in Data Science at Dongguk University. 🇰🇷
 [omanma1928@naver.com](omanma1928@naver.com)
 
 <br>
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js-lee-AI&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 

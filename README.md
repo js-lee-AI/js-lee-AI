@@ -18,7 +18,7 @@ and minor in Data Science at Dongguk University. 🇰🇷
 [omanma1928@naver.com](omanma1928@naver.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js-lee-AI&langs_count=8)]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js-lee-AI&langs_count=8)]
 
 
 

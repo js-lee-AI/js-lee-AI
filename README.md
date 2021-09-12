@@ -18,7 +18,7 @@ and minor in Data Science at Dongguk University. 🇰🇷
 💡 If have any questions or interests to me, feel free to email me.
 [omanma1928@naver.com](omanma1928@naver.com)
 
-<br><br>
+<br>
 
 <a href="https://github.com/js-lee-AI/js-lee-AI">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=js-lee-ai&show_icons=true&theme=monokai"/>

@@ -1,6 +1,6 @@
 <img align="left" src="https://github.com/js-lee-AI/js-lee-AI/blob/master/gifs/Specialist.gif" width=350>
 
-## Jungseob Lee
+# Jungseob Lee
 
 
 <!-- 👻 Hi. I'm 𝑱𝒖𝒏𝒈𝒔𝒆𝒐𝒃 𝑳𝒆𝒆. 
@@ -18,6 +18,7 @@ and minor in Data Science at Dongguk University. 🇰🇷
 💡 If have any questions or interests to me, feel free to email me.
 
 [omanma1928@naver.com](omanma1928@naver.com)
+
 
 <br>
 

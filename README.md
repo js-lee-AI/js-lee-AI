@@ -1,4 +1,4 @@
-<a>
+<a href="https://github.com/js-lee-AI/js-lee-AI">
  <img align="left" src="https://github.com/js-lee-AI/js-lee-AI/blob/master/gifs/Specialist.gif" width=350>
 </a>
 
@@ -21,8 +21,6 @@ and minor in Data Science at Dongguk University. 🇰🇷
 
 [omanma1928@naver.com](omanma1928@naver.com)
 
-<br>
-<br>
 <br>
 <br>
 

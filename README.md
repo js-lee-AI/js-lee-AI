@@ -1,4 +1,6 @@
-# Jungseob Lee
+<img align="left" src="https://github.com/js-lee-AI/js-lee-AI/blob/master/gifs/Specialist.gif" width=250>
+
+## Jungseob Lee
 
 
 <!-- 👻 Hi. I'm 𝑱𝒖𝒏𝒈𝒔𝒆𝒐𝒃 𝑳𝒆𝒆. 

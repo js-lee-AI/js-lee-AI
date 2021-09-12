@@ -1,5 +1,5 @@
 <a href="https://github.com/js-lee-AI/js-lee-AI">
- <img align="left" src="https://github.com/js-lee-AI/js-lee-AI/blob/master/gifs/Specialist.gif" width=350>
+ <img align="left" src="https://github.com/js-lee-AI/js-lee-AI/blob/master/gifs/Specialist.gif" width=320>
 </a>
 
 # Jungseob Lee

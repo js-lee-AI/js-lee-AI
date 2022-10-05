@@ -1,7 +1,7 @@
 
 <div align="center">  
  <p>
-   <h1>Gary Jungseob Lee</h1>
+   <h1>Jungseob Lee</h1>
   <a href="https://github.com/js-lee-AI/js-lee-AI">
   </a>
  

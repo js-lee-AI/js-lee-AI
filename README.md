@@ -19,4 +19,3 @@
   </a>
 </div> 
 
-<!-- ![my github stats](https://github-readme-stats.vercel.app/api?username=js-lee-ai&show_icons=true&theme=monokai) -->

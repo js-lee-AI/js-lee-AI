@@ -7,8 +7,8 @@
     🎓 Google Scholar
   </a>
  
-   📚 interested in 𝘕𝘢𝘵𝘶𝘳𝘢𝘭 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦 𝘗𝘳𝘰𝘤𝘦𝘴𝘴𝘪𝘯𝘨 <br>
-  Graduate Student, Korea University · NLP Lab <br>
+   📚 interested in 𝘕𝘢𝘵𝘶𝘳𝘢𝘭 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦 𝘗𝘳𝘰𝘤𝘦𝘴𝘴𝘪𝘯𝘨, 𝘓𝘢𝘳𝘨𝘦 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦 𝘔𝘰𝘥𝘦𝘭𝘴 <br>
+  Graduate Student, Korea University · NLP&AI Lab <br>
   <a href="mailto:omanma1928@korea.ac.kr">omanma1928@korea.ac.kr</a>
  </p>
 </div>

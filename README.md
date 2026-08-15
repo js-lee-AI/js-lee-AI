@@ -3,8 +3,6 @@
    <h1>Jungseob Lee (이정섭)</h1>
   <a href="https://js-lee-ai.github.io/">
     🌐 Homepage
-  </a> · <a href="https://js-lee-ai.github.io/cv/cv_jungseob_lee.pdf">
-    📄 CV
   </a> · <a href="https://scholar.google.com/citations?hl=ko&user=dTBGyFIAAAAJ">
     🎓 Google Scholar
   </a>
